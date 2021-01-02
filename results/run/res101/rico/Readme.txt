@@ -1,0 +1,1 @@
+Put your rico pre trained model here.
